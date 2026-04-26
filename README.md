@@ -13,8 +13,6 @@ This application allows users to efficiently manage student records with a moder
 - 🌐 Responsive UI (Frontend with React)
 - 🔗 REST API (Backend with Node.js & Express)
 
-> These features are commonly found in MERN-based student systems with CRUD operations and search capabilities. :contentReference[oaicite:1]{index=1}
-
 ---
 
 ## 🛠️ Tech Stack
